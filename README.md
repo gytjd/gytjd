@@ -1,7 +1,7 @@
 
 - 🔭 I’m currently working on ... KNU
 - 🌱 I’m currently learning ... Spring
-- 📫 How to reach me: ... @b_lue._
+- 📫 How to reach me: ... @b_lue._ on instagram
 
 ### Hi there 👋
 ![Blue's GitHub stats](https://github-readme-stats.vercel.app/api?username=gytjd&show_icons=true&theme=radical)   
