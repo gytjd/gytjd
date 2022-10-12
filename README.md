@@ -10,7 +10,6 @@
 - 🌱 I’m currently learning ... Spring
 - 📫 How to reach me: ... @b_lue._ on instagram
 
-### Hi there 👋
 
 ![Blue's GitHub stats](https://github-readme-stats.vercel.app/api?username=gytjd&show_icons=true&theme=radical)   
 
@@ -18,12 +17,6 @@
  
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
- <img src="https://img.shields.io/badge/C-#A8B9CC?style=flat-square&logo=appveyor&logo=C&logoColor=white"/>
- 
-  <br>
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
 </p>
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
