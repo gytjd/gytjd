@@ -15,7 +15,7 @@
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
- <img src="https://img.shields.io/badge/-C-blue?style=flat-square&logo=appveyor"/>
+ <img src="https://img.shields.io/badge/-C-blue?style=flat-square&logo=appveyor&logo=MySql&logoColor=white"/>
  
   <br>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
