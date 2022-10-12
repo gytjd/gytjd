@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&ccolor=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=BLUE%20HWANG&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&ccolor=gradient&customColorList=1,2,2,5,30&height=300&section=header&text=BLUE%20HWANG&fontSize=90)
 
 
 - 🔭 I’m currently working on ... KNU
