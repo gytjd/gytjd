@@ -9,7 +9,10 @@
 
 ### Hi there 👋
 ![Blue's GitHub stats](https://github-readme-stats.vercel.app/api?username=gytjd&show_icons=true&theme=radical)   
+
+<p align="center>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hys3396)](https://solved.ac/hys3396)
+</p>
 
 
 <h3 align="center">📚 Tech Stack 📚</h3>
