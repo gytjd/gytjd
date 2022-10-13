@@ -17,6 +17,7 @@
  
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
+https://img.shields.io/badge/-C-9cf
 </p>
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
