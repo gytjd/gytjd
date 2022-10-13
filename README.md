@@ -29,6 +29,13 @@
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 
 </p>
+ 
+ <h3 align="center"> IDE </h3>
+ <p align="center">
+     <img src="https://img.shields.io/badge/ECLPSE-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/>
+     <img src="https://img.shields.io/badge/Pycharm-000000?style=flat-square&logo=Pycharm&logoColor=white"/>
+     <img src="https://img.shields.io/badge/Intellij-000000?style=flat-square&logo=Intellij&logoColor=white"/>
+ </p>
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
