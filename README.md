@@ -17,7 +17,7 @@
  
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/텍스트-색상?style=flat-square&logo=아이콘이름&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 </p>
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
