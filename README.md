@@ -2,6 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=16&height=300&section=header&text=BLUE%20HWANG&fontSize=90)
 
+## Github status
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hys3396)](https://solved.ac/hys3396/)
+<br>
 
 
 <div align='center'>
