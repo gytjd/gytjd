@@ -1,3 +1,7 @@
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=BLUE%20HWANG&fontSize=90" />
+
+
+<br><br>
 <div align="left">
 
 ## 안녕하세요! 할수있다 보단 해야한다 의 마음을 가지고 있는 황효성 입니다! 😎
