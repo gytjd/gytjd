@@ -62,7 +62,7 @@
 | 07.01 ~ | Personal Study | 알고리즘 공부 시작 | <a href="https://github.com/gytjd/ForCodingTest">GitHub</a> <br> <a href="https://github.com/gytjd/ForCodingTest/tree/main/Python">여름방학 Python</a> <br> <a href="https://github.com/gytjd/ForCodingTest/tree/main/%EB%B0%B1%EC%A4%80">C++</a>| 같이 시작했던 시윤이 보경이 살아있니,,,? |
 | 05.01 ~ 07.01 | Team Study | 해달 알고리즘 스터디 | <a href="https://github.com/gytjd/haedal_study_repo">GitHub</a> |  |
 | 03.01 ~ 06.31 | 대외활동 | 해달 활동 |  |  |
-| 03.01 ~  | 시작 | KNU 편입학 합격 | <a href="https://blog.naver.com/hys3396/222654802703">BLOG</a> | 내 인생 전환점 |
+| 03.01 ~  | 시작 | KNU 컴퓨터학부 편입학 합격 | <a href="https://blog.naver.com/hys3396/222654802703">BLOG</a> | 내 인생 전환점 |
   
 <br>
   
