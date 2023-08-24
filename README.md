@@ -45,7 +45,7 @@
 ## 🔵 지금 까지의 Blue 🔵
 
 ### 4️⃣ Year 2023
-|Period|Types|Content|Reference Link| ETC |
+|Period|Types|Content|Reference Link| ETC 
 |:-|:-|:-|:-|:-|
 | 03.01 ~  | 대외활동 | 멋쟁이 사자처럼 아기사자 11기 | 앞으로 활동 등을 통해 <br> 채워 나갈 예정</a> | 아이디어톤 , 해커톤 을 앞둔 <br> 우리 6팀 화이팅!! |
 | 02.01 ~  | Team Project | GDSC 1차 프로젝트 | <a href="https://github.com/gytjd/1st-Project-4th">GitHub</a> |  |
@@ -55,12 +55,12 @@
 <br>
   
 ### 3️⃣ Year 2022
-|Period|Types|Content|Reference Link| ETC |
+|Period|Types|Content|Reference Link| ETC
 |:-|:-|:-|:-|:-|
-| 11.30 ~ 12.24 | 대외 활동 | OnePosterShop 외주 프로젝트 | <a href="https://github.com/gytjd/ONEPOSTERSHOP">GitHub</a> <br> <img src = "https://user-images.githubusercontent.com/101933437/202091942-a841305f-0229-45fb-b189-1ac66b6ef851.jpeg" width="30%" height="30%"> | 중단 된 프로젝트지만 <br> 졸업 하기 전엔 꼭 마무리 하고 싶은 프로젝트,, |
+| 11.30 ~ 12.24 | 대외 활동 | OnePosterShop 외주 프로젝트 | <a href="https://github.com/gytjd/ONEPOSTERSHOP">GitHub</a> <br> <img src = "https://user-images.githubusercontent.com/101933437/202091942-a841305f-0229-45fb-b189-1ac66b6ef851.jpeg" width="100" height="100"> | 중단 된 프로젝트지만 <br> 졸업 하기 전엔 꼭 마무리 하고 싶은 프로젝트,, |
 | 10.03 ~ 12.6 | Team Study | GDSC 백엔드 4팀 토이 프로젝트 | <a href="https://www.notion.so/a7f9a42e22c644fa8dc1ed1109698ded?p=81898de1666944f0834aa51272e9c76a&pm=s">Velog</a> <br> <a href="https://github.com/GDSC-KNU/2nd-Study-backend-4">GitHub</a> |  |
 | 10.03 ~ 12.6 | Team Study | GDSC 백엔드 4팀 스터디 | <a href="https://www.notion.so/GDSC-4-1652a51ee78e423daaf36848aa3e1e69">Velog</a> |  |
-| 10.08 ~ 10.11 | Team Project | 대구를 빛내는 SW 해커톤 | <a href="https://github.com/gytjd/2022-hackathon">GitHub</a> <br> <img src="https://user-images.githubusercontent.com/101933437/192205790-cbb81183-7d12-454f-822f-5df8839d7780.png" width="300" height="200"/> | 장려상 수상 <br> 첫 프로젝트 같이 열심히 한 태곤,석환 고생!|
+| 10.08 ~ 10.11 | Team Project | 대구를 빛내는 SW 해커톤 | <a href="https://github.com/gytjd/2022-hackathon">GitHub</a> <br> <img src="https://user-images.githubusercontent.com/101933437/192205790-cbb81183-7d12-454f-822f-5df8839d7780.png" width="300" height="100"/> | 장려상 수상 <br> 첫 프로젝트 같이 열심히 한 태곤,석환 고생!|
 | 09.01 ~  | 대외활동 | GDSC KNU 2기 활동 |  <a href="https://github.com/GDSC-KNU">GitHub</a> |  |
 | 09.01 ~  | Personal Study | Spring 공부 시작 |  |  |
 | 07.01 ~ | Personal Study | 알고리즘 공부 시작 | <a href="https://github.com/gytjd/ForCodingTest">GitHub</a> <br> <a href="https://github.com/gytjd/ForCodingTest/tree/main/Python">여름방학 Python</a> <br> <a href="https://github.com/gytjd/ForCodingTest/tree/main/%EB%B0%B1%EC%A4%80">C++</a>| 같이 시작했던 시윤이 보경이 살아있니,,,? |
