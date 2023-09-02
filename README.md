@@ -47,6 +47,7 @@
 ### 4️⃣ Year 2023
 |Period|Types|Content|Reference Link| ETC 
 |:-|:-|:-|:-|:-|
+| 06.28 ~ 06.30 | 대외활동 | Microsoft 해커톤 | 입상....? <br> <a href="https://github.com/gytjd/WE">GitHub</a> | 규회,준혁,휘영,다영 <br> 2박 3일동안 밤샌다고 고생했다!!! |
 | 03.01 ~  | 대외활동 | 멋쟁이 사자처럼 아기사자 11기 | 앞으로 활동 등을 통해 <br> 채워 나갈 예정</a> | 아이디어톤 , 해커톤 을 앞둔 <br> 우리 6팀 화이팅!! |
 | 02.01 ~  | Team Project | GDSC 1차 프로젝트 | <a href="https://github.com/gytjd/1st-Project-4th">GitHub</a> |  |
 | 01.16 ~ 02.24 | 대외활동 | 삼성전자 동계 SW 역량강화 특강 수료 | <a href="https://velog.io/@gytjd/Algorithm-%EC%A7%80%EA%B8%88%EA%B9%8C%EC%A7%80">Velog <br> <a href="https://swexpertacademy.com/main/userpage/userInformation.do">SWEA</a> | 가장 가고싶은 삼성전자의 Pro 시험을 <br> 처볼수 있었던 너무 좋았던 경험 |
