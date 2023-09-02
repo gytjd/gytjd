@@ -24,28 +24,11 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hys3396)](https://solved.ac/hys3396/)
   ![gytjd's github stats](https://github-readme-stats.vercel.app/api?username=gytjd&show_icons=true)
   
-<!-- <br>
-
-## 🔨 Teck Stack 🔨
-
-|Types|Techs|
-|:-|:-|
-| Lanauage | <img src="https://img.shields.io/badge/javascript-f7df1e?style=flat&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3974A5?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-A8B9CC?style=flat&logo=openjdk&logoColor=white"/> |
-| MarkUp | <img src="https://img.shields.io/badge/html5-e44d26?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-0d73b7?style=flat&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7010ef?style=flat&logo=bootstrap&logoColor=white"/> |
-| RunTime | <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/> |
-| FrameWork | <img src="https://img.shields.io/badge/react-5ed3f3?style=flat&logo=react&logoColor=white"/>  <img src="https://img.shields.io/badge/Spring-5cb230?style=flat&logo=spring&logoColor=white"/>  <img src="https://img.shields.io/badge/django-0c4931?style=flat&logo=django&logoColor=white"/> |
-| Code Formatter & Linter | <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=ESLint&logoColor=white"/> <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=Prettier&logoColor=white"/> |
-| Test Code | <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white"/> |
-| Bundler | <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=Webpack&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white"/> |
-| Database | <img src="https://img.shields.io/badge/MySQL-005e86?style=flat&logo=mysql&logoColor=white"/> |
- 
-
-<br> -->
 
 ## 🔵 지금 까지의 Blue 🔵
 
 
-### 4️⃣ Year 2023
+### Year 2023
 |Period|Types|Content|Reference Link| ETC 
 |:-|:-|:-|:-|:-|
 | 08.25 ~  | 대외활동 | 삼성 SDS PRO 합격 | 추후 블로그 업로드 예정 | 경북대 다니면서 젤 행복했던 날, 너무 뿌듯했고 SDS 가자 |
@@ -63,7 +46,7 @@
 <br>
 <br>
   
-### 3️⃣ Year 2022
+### Year 2022
 |Period|Types|Content|Reference Link| ETC
 |:-|:-|:-|:-|:-|
 | 11.30 ~ 12.24 | 대외 활동 | OnePosterShop 외주 프로젝트 | <a href="https://github.com/gytjd/ONEPOSTERSHOP">GitHub</a> <br> <img src = "https://user-images.githubusercontent.com/101933437/202091942-a841305f-0229-45fb-b189-1ac66b6ef851.jpeg" width="100" height="100"> | 중단 된 프로젝트지만 <br> 졸업 하기 전엔 꼭 마무리 하고 싶은 프로젝트,, |
@@ -80,12 +63,12 @@
 <br>
   
 ## ✉️ Contact ✉️
-
+메일로 연락 주세요!!
  
 <br>
 
 ---------
 
-Update : 2023.05.21
+Update : 2023.09.02
   
 </div>
