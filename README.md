@@ -48,7 +48,7 @@
 ### 4️⃣ Year 2023
 |Period|Types|Content|Reference Link| ETC 
 |:-|:-|:-|:-|:-|
-| 07 ~ 08.27 | 대외활동 | 제 10회 대한민국 SW융합 해커톤 |![KakaoTalk_Photo_2023-09-02-18-06-26](https://github.com/gytjd/gytjd/assets/101933437/3ee9fa6b-5168-4632-8b4a-7ffa45dc20e1)<br> 대상 억까,,,, <br> <a href="https://github.com/PICKTRE/PICKTRE_SERVER">GitHub</a> | 결과에 상관없이 처음으로 <br> 제대로 된 프로젝트를 만들수 있었다. <br> 디자인 해준 지영이 너무 고맙고 <br> 우리 개발팀 누구보다 젤 고생했다 !!! |
+| 07 ~ 08.27 | 대외활동 | 제 10회 대한민국 SW융합 해커톤 | <img src="https://github.com/gytjd/gytjd/assets/101933437/3ee9fa6b-5168-4632-8b4a-7ffa45dc20e1" width="500" height="200"> <br> 대상 억까,,,, <br> <a href="https://github.com/PICKTRE/PICKTRE_SERVER">GitHub</a> | 결과에 상관없이 처음으로 <br> 제대로 된 프로젝트를 만들수 있었다. <br> 디자인 해준 지영이 너무 고맙고 <br> 우리 개발팀 누구보다 젤 고생했다 !!! |
 | 07.24 ~ 08.04 | 대외활동 | 삼성 SDS 알고리즘 특강 | 히죽히죽 <br> 추후 블로그 업로드 예정 | 전반적인 알고리즘 복습 <br> 고급 알고리즘 실사용 <br> PRO 시험 응시 |
 | 07.06 ~  | 대외활동 | Team BAESOOJIN 생성 | 우리는 더이상 물러날 곳이 없다! <br> <a href="https://github.com/PICKTRE">GitHub</a> | 규회,준혁,보성 상금 싹쓰리 가자 |
 | 06.28 ~ 06.30 | 대외활동 | Microsoft 해커톤 | 입상....? <br> <a href="https://github.com/gytjd/WE">GitHub</a> | 규회,준혁,휘영,다영 <br> 2박 3일동안 밤샌다고 고생했다!!! |
