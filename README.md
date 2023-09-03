@@ -31,7 +31,7 @@
 ### Year 2023
 |Period|Types|Content|Reference Link| ETC 
 |:-|:-|:-|:-|:-|
-| 08.25 ~  | 대외활동 | 삼성 SDS PRO 합격 | 추후 블로그 업로드 예정 | 경북대 다니면서 젤 행복했던 날, 너무 뿌듯했고 SDS 가자 |
+| 08.25 ~  | 대외활동 | 삼성 SDS PRO 합격 |  <a href="https://velog.io/@gytjd/2023-%EC%82%BC%EC%84%B1-SDS-%ED%95%98%EB%B0%98%EA%B8%B0-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%ED%8A%B9%EA%B0%95-PRO-%ED%95%A9%EA%B2%A9%ED%9B%84%EA%B8%B0">Velog</a> | 경북대 다니면서 젤 행복했던 날, 너무 뿌듯했고 SDS 가자 |
 | 07 ~  | 대외활동 | 공개 SW 개발자 대회 |  <a href="https://github.com/PICKTRE/PICKTRE_backend">GitHub</a> | 앞으로 나아가야지 |
 | 07 ~ 08.27 | 대외활동 | 제 10회 대한민국 SW융합 해커톤 | <img src="https://github.com/gytjd/gytjd/assets/101933437/3ee9fa6b-5168-4632-8b4a-7ffa45dc20e1" width="600" height="200"> <br> 대상 억까,,,, <br> <a href="https://github.com/PICKTRE/PICKTRE_SERVER">GitHub</a> | 결과에 상관없이 처음으로 <br> 제대로 된 프로젝트를 만들수 있었다. <br> 디자인 해준 지영이 너무 고맙고 <br> 우리 개발팀 누구보다 젤 고생했다 !!! |
 | 08.18 ~ 08.19 | 대외활동 | 멋쟁이 사자처럼 해커톤 | <img width="821" alt="스크린샷 2023-09-02 오후 6 26 57" src="https://github.com/gytjd/gytjd/assets/101933437/9241338f-07e9-4bdd-a61b-eca2bf75c3e7"> <br >질문없는 질문팀 <br>  <a href="https://github.com/gytjd/ShareIT_backend">GitHub</a> | 규회,강현,수현,은지 <br> 바빠서 미안,,,,했지만 잘 따라와줘서 고마웠어 |
