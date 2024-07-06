@@ -1,39 +1,30 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=BLUE%20HWANG&fontSize=90" />
+## 할수있다 보단 해야한다..
+<img width="473" alt="스크린샷 2024-07-06 오후 3 49 36" src="https://github.com/gytjd/gytjd/assets/101933437/3d393eb7-a771-4a0f-a63c-f58111340ecd">  <br><br>
+Cloud Engineer 가 되고 싶습니다. 사소한 일이라도 쉽게 포기하지 않고 해내는 사람이 되고싶습니다. <br>
+AWS Cloud 6기를 진행중에 있으며 Solution Architect Professional , Certified Kubernetes Administrator 준비하고 있습니다. <br>
+학부 시절 백앤드,서버를 주로 담당하며 개발을 진행했고 Spring,AWS,GCP을 다뤘습니다.
 
 
-<br><br>
-<div align="left">
-
-## 안녕하세요! 할수있다 보단 해야한다 의 마음을 가지고 있는 황효성 입니다! 😎
-  Spring Framework 를 공부하며 BE 개발자로 성장 하고싶은 BLUE 입니다.<br>
-  뭐든 자만하지 않고 배우려는 자세로 개발에 임하고 있습니다. 🙌🏻
-  
 <br>
 
-## 🔥 하루에 이건 꼭! 🔥
-
-####  C++ 로 <a href="https://www.acmicpc.net/">백준</a> 1일 1솔 하기!! 풀고나선 꼭 <a href="https://velog.io/@gytjd">velog</a> 에 정리하기
-#### 학부 수업 반복으로 CS 꾸준하게 몸에 익히기 
-#### 코딩만 하다가 죽기 싫어!! 하루 언제가 되더라도 3분할로 헬스는 꼭. <a href="https://www.instagram.com/aqui_te_amoo/">운동 계정</a>
-  
-## 🌊 일주일에 이건 꼭...? 🌊
-  #### 일주일에 한번은 꼭 쉬기!! 일주일간 고생한 나를 위해 주는 선물,,,🥺
-<br>
-  
-## 노력 중!!
+## 👍🏻 Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hys3396)](https://solved.ac/hys3396/)
-  ![gytjd's github stats](https://github-readme-stats.vercel.app/api?username=gytjd&show_icons=true)
   
 
-## 🔵 지금 까지의 Blue 🔵
+## ⚓️ 지금 까지
 
+### Year 2024
+|Period|Types|Content|Reference Link| ETC 
+|:-|:-|:-|:-|:-|
+|05~11.28|대외활동|AWS Cloud School 6기|<a href="https://velog.io/@gytjd/series/SAA">Velog</a>|클라우드 엔지니어가 되자|
+|03.15|자격증|AWS Solution Architect Associate|<a href="https://velog.io/@gytjd/series/SAA">Velog</a>|AWS Cloud 가 점유율 젤 높아서,, <br> 도전 해봤는데 취득하게 되어서 좋았다... Professional 까지 도전,,|
 
 ### Year 2023
 |Period|Types|Content|Reference Link| ETC 
 |:-|:-|:-|:-|:-|
 | 08.25 ~  | 대외활동 | 삼성 SDS PRO 합격 |  <a href="https://velog.io/@gytjd/2023-%EC%82%BC%EC%84%B1-SDS-%ED%95%98%EB%B0%98%EA%B8%B0-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%ED%8A%B9%EA%B0%95-PRO-%ED%95%A9%EA%B2%A9%ED%9B%84%EA%B8%B0">Velog</a> | 경북대 다니면서 젤 행복했던 날, 너무 뿌듯했고 SDS 가자 |
 | 07 ~  | 대외활동 | 공개 SW 개발자 대회 |  <a href="https://github.com/PICKTRE/PICKTRE_backend">GitHub</a> | 앞으로 나아가야지 |
-| 07 ~ 08.27 | 대외활동 | 제 10회 대한민국 SW융합 해커톤 | <img src="https://github.com/gytjd/gytjd/assets/101933437/3ee9fa6b-5168-4632-8b4a-7ffa45dc20e1" width="600" height="200"> <br> 대상 억까,,,, <br> <a href="https://github.com/PICKTRE/PICKTRE_SERVER">GitHub</a> | 결과에 상관없이 처음으로 <br> 제대로 된 프로젝트를 만들수 있었다. <br> 디자인 해준 지영이 너무 고맙고 <br> 우리 개발팀 누구보다 젤 고생했다 !!! |
+| 07 ~ 08.27 | 대외활동 | 제 10회 대한민국 SW융합 해커톤 | <img src="https://github.com/gytjd/gytjd/assets/101933437/3ee9fa6b-5168-4632-8b4a-7ffa45dc20e1" width="600" height="200"> <br> 대상 억까,,,, <br> <a href="https://github.com/PICKTRE/PICKTRE_backend">GitHub</a> | 결과에 상관없이 처음으로 <br> 제대로 된 프로젝트를 만들수 있었다. <br> 디자인 해준 지영이 너무 고맙고 <br> 우리 개발팀 누구보다 젤 고생했다 !!! |
 | 08.18 ~ 08.19 | 대외활동 | 멋쟁이 사자처럼 해커톤 | <img width="821" alt="스크린샷 2023-09-02 오후 6 26 57" src="https://github.com/gytjd/gytjd/assets/101933437/9241338f-07e9-4bdd-a61b-eca2bf75c3e7"> <br >질문없는 질문팀 <br>  <a href="https://github.com/gytjd/ShareIT_backend">GitHub</a> | 규회,강현,수현,은지 <br> 바빠서 미안,,,,했지만 잘 따라와줘서 고마웠어 |
 | 07.24 ~ 08.04 | 대외활동 | 삼성 SDS 알고리즘 특강 | 히죽히죽 <br> 추후 블로그 업로드 예정 | 전반적인 알고리즘 복습 <br> 고급 알고리즘 실사용 <br> PRO 시험 응시 |
 | 07.06 ~  | 대외활동 | Team BAESOOJIN 생성 | 우리는 더이상 물러날 곳이 없다! <br> <a href="https://github.com/PICKTRE">GitHub</a> | 규회,준혁,보성 상금 싹쓰리 가자 |
@@ -60,15 +51,11 @@
 | 03.01 ~ 06.31 | 대외활동 | 해달 활동 |  |  |
 | 03.01 ~  | 시작 | KNU 컴퓨터학부 편입학 합격 | <a href="https://blog.naver.com/hys3396/222654802703">BLOG</a> | 내 인생 전환점 |
   
-<br>
-  
-## ✉️ Contact ✉️
-메일로 연락 주세요!!
  
 <br>
 
 ---------
 
-Update : 2023.09.02
+Update : 2024.07
   
 </div>
