@@ -16,6 +16,7 @@ AWS Cloud 6기를 진행중에 있으며 Solution Architect Professional , Certi
 ### Year 2024
 |Period|Types|Content|Reference Link| ETC 
 |:-|:-|:-|:-|:-|
+|07.26|자격증|AWS Solution Architect Professional|<a href="https://velog.io/@gytjd/series/SAA">Velog</a>|AWS Cloud School 하면서 더 공부하고 싶어서 취득하게된 자격증, 너무 고생하면서 합격해서 더 기분 좋았다. <br> 같이 공부한 연준이도 고맙다!!!|
 |05~11.28|대외활동|AWS Cloud School 6기|<a href="https://velog.io/@gytjd/series/SAA">Velog</a>|클라우드 엔지니어가 되자|
 |03.15|자격증|AWS Solution Architect Associate|<a href="https://velog.io/@gytjd/series/SAA">Velog</a>|AWS Cloud 가 점유율 젤 높아서,, <br> 도전 해봤는데 취득하게 되어서 좋았다... Professional 까지 도전,,|
 
