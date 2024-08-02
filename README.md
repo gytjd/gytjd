@@ -3,13 +3,15 @@
 Cloud Engineer 가 되고 싶습니다. 사소한 일이라도 쉽게 포기하지 않고 해내는 사람이 되고싶습니다. <br>
 AWS Cloud 6기를 진행중에 있으며 Solution Architect Professional , Certified Kubernetes Administrator 준비하고 있습니다. <br>
 학부 시절 백앤드,서버를 주로 담당하며 개발을 진행했고 Spring,AWS,GCP을 다뤘습니다.
-
-
 <br>
+
+![제목_없음_Background_Removal-removebg](https://github.com/user-attachments/assets/016382ad-1f71-4933-afed-b674bc020d6d)
+
+
 
 ## 👍🏻 Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hys3396)](https://solved.ac/hys3396/)
-  
+
 
 ## ⚓️ 지금 까지
 
