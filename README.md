@@ -1,8 +1,6 @@
 ## 할수있다 보단 해야한다..
 <img width="473" alt="스크린샷 2024-07-06 오후 3 49 36" src="https://github.com/gytjd/gytjd/assets/101933437/3d393eb7-a771-4a0f-a63c-f58111340ecd">  <br><br>
 Cloud Engineer 가 되고 싶습니다. 사소한 일이라도 쉽게 포기하지 않고 해내는 사람이 되고싶습니다. <br>
-AWS Cloud 6기를 진행중에 있으며 Solution Architect Professional , Certified Kubernetes Administrator 준비하고 있습니다. <br>
-학부 시절 백앤드,서버를 주로 담당하며 개발을 진행했고 Spring,AWS,GCP을 다뤘습니다.
 <br>
 
 ![제목_없음_Background_Removal-removebg](https://github.com/user-attachments/assets/016382ad-1f71-4933-afed-b674bc020d6d)
