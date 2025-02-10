@@ -1,9 +1,12 @@
 ## 할수있다 보단 해야한다..
 <img width="473" alt="스크린샷 2024-07-06 오후 3 49 36" src="https://github.com/gytjd/gytjd/assets/101933437/3d393eb7-a771-4a0f-a63c-f58111340ecd">  <br><br>
-Cloud Engineer 가 되고 싶습니다. 사소한 일이라도 쉽게 포기하지 않고 해내는 사람이 되고싶습니다. <br>
+Cloud Engineer 가 되고 싶습니다. 사소한 일이라도 포기하지 않고 해내는 사람이 되고싶습니다. <br>
 <br>
 
+## 자격증
+
 ![제목_없음_Background_Removal-removebg](https://github.com/user-attachments/assets/016382ad-1f71-4933-afed-b674bc020d6d)
+![resized_cka_350](https://github.com/user-attachments/assets/30c4d7c4-d2e8-492f-aa58-590358e06421)
 
 
 
@@ -16,8 +19,10 @@ Cloud Engineer 가 되고 싶습니다. 사소한 일이라도 쉽게 포기하�
 ### Year 2024
 |Period|Types|Content|Reference Link| ETC 
 |:-|:-|:-|:-|:-|
-|08.12~08.14| 대외활동 |AWS Mini Project|<a href="https://github.com/AWS-Cloud-School-6/Recruitment_Backend">Github</a>|조장 힘들다|
-|07.26|자격증|AWS Solution Architect Professional|<a href="https://velog.io/@gytjd/series/SAA">Velog</a>|AWS Cloud School 하면서 더 공부하고 싶어서 취득하게된 자격증, 너무 고생하면서 합격해서 더 기분 좋았다. <br> 같이 공부한 연준이도 고맙다!!!|
+|09.01~11.28| 프로젝트 |AWS Main Project|<a href="https://github.com/AWS-Cloud-School-6/Recruitment_Backend">Github</a>|멀티클라우드 관리 플랫폼|
+|09.13|자격증|Certified Kubernetes Administrator|<a href="https://www.credly.com/earner/earned/badge/e317afbf-5c6a-4871-9fc9-d00519294684">Credly</a>|100점이 아쉽지만 K8S를 내 마음대로 다룰수 있게 된거같아 좋았다..~|
+|08.12~08.14| 프로젝트 |AWS Mini Project|<a href="https://github.com/AWS-Cloud-School-6/Recruitment_Backend">Github</a>|조장 힘들다|
+|07.26|자격증|AWS Solution Architect Professional|<a href="https://www.credly.com/earner/earned/badge/88f50be4-0303-47b2-8084-d8a0f712fa61">Credly</a>|AWS Cloud School 하면서 더 공부하고 싶어서 취득하게된 자격증, 너무 고생하면서 합격해서 더 기분 좋았다. <br> 같이 공부한 연준이도 고맙다!!!|
 |05~11.28|대외활동|AWS Cloud School 6기|<a href="https://velog.io/@gytjd/series/SAA">Velog</a>|클라우드 엔지니어가 되자|
 |03.15|자격증|AWS Solution Architect Associate|<a href="https://velog.io/@gytjd/series/SAA">Velog</a>|AWS Cloud 가 점유율 젤 높아서,, <br> 도전 해봤는데 취득하게 되어서 좋았다... Professional 까지 도전,,|
 
@@ -58,6 +63,6 @@ Cloud Engineer 가 되고 싶습니다. 사소한 일이라도 쉽게 포기하�
 
 ---------
 
-Update : 2024.07
+Update : 2025.02
   
 </div>
